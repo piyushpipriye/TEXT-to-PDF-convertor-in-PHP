@@ -1,7 +1,7 @@
 # TEXT-to-PDF-convertor-in-PHP
 
-<b>Taking Input</b>
+<b>Input</b>
 ![](input.png)</br>
 
-<b>Giving Output</b>
+<b>Output</b>
 ![](output2.png)
